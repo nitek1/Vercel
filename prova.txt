@@ -1,0 +1,35 @@
+git(controle de versionamento)
+github(plataforma)
+sistema de controle de versao distribuida permite trabalhar simultaneamente no projeto
+ramificaçao e fusao 
+
+O git é um sistema de controle de versao distribuido que permite ramificar as alteraçoes feitas em arquivos 
+ao longo do tempo.Ele facilita a colaboraçao entre desenvolvedores permitindo que varias pessoas trabalhem
+em um mesmo  projeto e façam alteraçoes simultaneamente.
+
+No code
+low code  git(escrever branches)
+
+Github é uma plataforma de hospedagem de código-fonte e facilita o versionamento
+e cotrole de alteraçoes em projetos de softweare fundada em 2008, o Github e 
+baseado no sistema de controle de versao distribuido Git e oferece recursos
+para colaboraçao gerenciamento de problemas de integraçao continua.
+
+Vantagens de usar o Github
+Colaboraçao eficiente
+Rastreamento de Alteraçoes
+Feedback e Revisao de Codigo
+Integraçao Continua
+1-git init
+2-git add
+3-git commit
+
+Colaboraçao no GitHub
+
+Branches e Merge Requests
+Codigo Aberto e Forks
+Issues e Pull Requests
+Integraçao Continua e Automatizada
+
+
+
